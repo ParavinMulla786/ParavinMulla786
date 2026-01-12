@@ -13,7 +13,7 @@
 
 ---
 
-## 👨‍💻 About Me (Recruiter View)
+## 👨‍💻 About Me 
 🎓 **B.Tech Computer Science Engineering (Final Year)**  
 💼 Aspiring **Software / Full Stack Developer**  
 🧠 Strong interest in **AI-powered applications & modern web technologies'**
