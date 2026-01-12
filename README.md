@@ -55,18 +55,13 @@
 ---
 
 ### 🔹 Smart E-Waste Collection & Management System
-- 🌍 QR-based tracking system
 - 🏙️ Smart waste collection workflow
 - 👥 Admin, User & Collector dashboards
 - ♻️ Sustainable & eco-focused solution
 
 ---
 
-### 🔹 QR Code Student Attendance System
-- 📱 QR-based attendance
-- 👨‍🏫 Teacher & Student portals
-- 📊 Individual attendance analytics
-- 🔐 Secure & scalable architecture
+
 
 ---
 
