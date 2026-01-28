@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=250&section=header&text=Paravin%20Mulla&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55"/>
 </p>
 
-<!-- Visitor Counter -->
+<!-- Profile Visitor Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ParavinMulla786&label=Profile%20Views&color=0A66C2&style=for-the-badge"/>
 </p>
@@ -34,15 +34,15 @@
 ## 💼 Professional Experience
 
 ### 🏢 Java Developer Intern — **Infosys**
-- Java Full Stack apps using **Spring Boot & React**
-- Designed secure **RESTful APIs**
-- Agile development with **CI/CD**
-- Built scalable production features
+- Developed Java Full Stack applications using **Spring Boot & React**
+- Implemented **secure RESTful APIs**
+- Worked in **Agile & CI/CD environment**
+- Built scalable production-ready features
 
 ### 🏢 Full Stack Developer — **Developer.dev Pvt. Ltd.**
-- MEAN Stack & MySQL applications
-- Spring Boot REST APIs
-- Responsive UI with modern UX
+- Built MEAN Stack applications with **MySQL**
+- Developed **Spring Boot REST APIs**
+- Designed responsive UI with modern UX principles
 
 ---
 
@@ -50,12 +50,12 @@
 
 ### 🚀 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,js,react,nextjs,nodejs&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,react,nextjs,nodejs"/>
 </p>
 
 ### 🗄️ Databases & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,postman&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,postman"/>
 </p>
 
 ---
@@ -64,27 +64,23 @@
 
 ### 🎥 AI Mock Interview Platform
 **Tech:** Next.js • React • Gemini AI • PostgreSQL • Clerk  
-
 - 🎬 Real-time video interviews  
 - 🧠 AI-powered evaluation  
 - 📊 Performance dashboard  
 - 🔐 Secure authentication  
 
----
-
 ### ♻️ Smart E-Waste Management System
 **Tech:** React • Java • MongoDB • JWT  
-
-- 🏙️ Admin/User/Collector dashboards  
+- 🏙️ Multi-role dashboards  
 - 📱 Real-time tracking  
 - 📅 Smart scheduling  
 - 📊 Analytics & insights  
 
 ---
 
-## 🏆 GitHub Trophies (Animated)
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ParavinMulla786&theme=radical&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ParavinMulla786&theme=radical&no-frame=true&no-bg=true&margin-w=15"/>
 </p>
 
 ---
@@ -104,13 +100,12 @@
 
 ## 🐍 Contribution Snake (Animated)
 <p align="center">
-  <img src="https://github.com/ParavinMulla786/ParavinMulla786/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/ParavinMulla786/ParavinMulla786/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
-
 <p align="center">
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
