@@ -50,7 +50,7 @@
 - 🧠 AI Feedback on answers, tone & confidence
 - 🗄️ PostgreSQL + Drizzle ORM
 - ⚙️ Next.js + Gemini API  
-🔗 **Live:** https://ai-mock-interview-sigma.vercel.app
+
 
 ---
 
