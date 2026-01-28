@@ -1,100 +1,134 @@
-Paravin Mulla | Full Stack Developer
-<!-- Animated Banner --><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=250&section=header&text=Paravin%20Mulla&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55" /> </p><h3 align="center"> 🚀 Full Stack Developer • 🤖 AI Enthusiast • 🌱 Continuous Learner </h3><p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&lines=Building+Scalable+Web+Apps;Java+%26+Spring+Boot+Developer;AI-Powered+Project+Builder;Full+Stack+Developer;Turning+Ideas+into+Products" /> </p>
-👨‍💻 About Me
-🎓 B.Tech Computer Science Engineering (Final Year)
-💼 Aspiring Software / Full Stack Developer with industry experience
-🧠 Passionate about AI-powered applications & modern web technologies
+# 👋 Hi, I'm Paravin Mulla  
+### 🚀 Full Stack Developer | 🤖 AI Enthusiast | 🌱 Continuous Learner
 
-✔️ Hands-on experience with Java Spring Boot, React & MERN Stack
-✔️ Built real-world, production-ready projects
-✔️ Strong focus on clean code, UX & scalable systems
-✔️ Open to collaborations & exciting opportunities
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=250&section=header&text=Paravin%20Mulla&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55"/>
+</p>
 
-💼 Professional Experience
-Java Developer Intern @ Infosys
-Developing Java full-stack applications using Spring Boot and React
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ParavinMulla786&label=Profile%20Views&color=0A66C2&style=for-the-badge"/>
+</p>
 
-Implementing RESTful APIs, secure authentication, and state management
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&lines=Building+Scalable+Web+Applications;Java+%26+Spring+Boot+Developer;AI-Powered+Project+Builder;Turning+Ideas+into+Products"/>
+</p>
 
-Working in Agile environment with CI/CD workflows
+---
 
-Building scalable, production-ready features
+## 👨‍💻 About Me
 
-Full Stack Developer | Developer.dev Pvt. Ltd.
-Built scalable applications with MEAN Stack and MySQL
+🎓 **B.Tech Computer Science Engineering (Final Year)**  
+💼 **Aspiring Software / Full Stack Developer**  
+🧠 Passionate about **AI-powered applications & modern web technologies**
 
-Developed robust REST APIs using Java and Spring Boot
+✔️ Java, Spring Boot, React, MERN Stack  
+✔️ Real-world, production-ready projects  
+✔️ Clean code, UX & scalable architecture  
+✔️ Open to internships, full-time roles & collaborations  
 
-Created responsive interfaces with modern UI/UX principles
+---
 
-🛠️ Tech Stack
-<div align="center">
-Languages & Frameworks
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
-https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+## 💼 Professional Experience
 
-Databases & Tools
-https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
-https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
-https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
+### 🏢 Java Developer Intern — **Infosys**
+- Java Full Stack apps using **Spring Boot & React**
+- Designed secure **RESTful APIs**
+- Agile development with **CI/CD**
+- Built scalable production features
 
-</div>
-🚀 Featured Projects
-🎥 AI Mock Interview Platform
-Tech: Next.js • React • Gemini AI • PostgreSQL • Clerk
-Features:
+### 🏢 Full Stack Developer — **Developer.dev Pvt. Ltd.**
+- MEAN Stack & MySQL applications
+- Spring Boot REST APIs
+- Responsive UI with modern UX
 
-🎬 Real-time video interviews with webcam recording
+---
 
-🧠 AI-powered analysis using Gemini API
+## 🛠️ Tech Stack
 
-📊 Performance dashboard with feedback
+### 🚀 Languages & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,react,nextjs,nodejs&theme=light"/>
+</p>
 
-🔐 Secure authentication with Clerk
+### 🗄️ Databases & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,postman&theme=light"/>
+</p>
 
-♻️ Smart E-Waste Management System
-Tech: MERN Stack • React • Node.js • MongoDB • JWT
-Features:
+---
 
-🏙️ Multi-role dashboards (Admin/User/Collector)
+## 🚀 Featured Projects
 
-📱 Real-time collection tracking
+### 🎥 AI Mock Interview Platform
+**Tech:** Next.js • React • Gemini AI • PostgreSQL • Clerk  
 
-📅 Smart scheduling system
+- 🎬 Real-time video interviews  
+- 🧠 AI-powered evaluation  
+- 📊 Performance dashboard  
+- 🔐 Secure authentication  
 
-📊 Analytics dashboard
+---
 
-🎯 TaskFlow Pro - Project Management
-Tech: Java • Spring Boot • React • MySQL • Redis
-Features:
+### ♻️ Smart E-Waste Management System
+**Tech:** React • Java • MongoDB • JWT  
 
-📋 Kanban board with drag-and-drop
+- 🏙️ Admin/User/Collector dashboards  
+- 📱 Real-time tracking  
+- 📅 Smart scheduling  
+- 📊 Analytics & insights  
 
-👥 Team collaboration tools
+---
 
-📈 Progress analytics
+## 🏆 GitHub Trophies (Animated)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ParavinMulla786&theme=radical&no-frame=true&row=1&column=6"/>
+</p>
 
-📅 Calendar integration
+---
 
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ParavinMulla786&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParavinMulla786&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" /> </div><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParavinMulla786&theme=radical&hide_border=true&fire=DD2727" height="180" /> </div>
-🌐 Connect With Me
-<div align="center">
-https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white
+## 📊 GitHub Analytics
 
-</div>
-<div align="center">
-💫 "I don't just write code — I build solutions that make an impact."
-</div><div align="center">
-🚀 Open to collaborations & opportunities
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ParavinMulla786&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParavinMulla786&layout=compact&theme=radical&hide_border=true" height="180"/>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParavinMulla786&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake (Animated)
+<p align="center">
+  <img src="https://github.com/ParavinMulla786/ParavinMulla786/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ParavinMulla786">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💫 <i>"I don't just write code — I build solutions that make an impact."</i>
+</p>
+
+<p align="center">
+  🚀 Open to collaborations & opportunities
+</p>
