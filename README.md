@@ -1,16 +1,18 @@
 👋 Hi, I'm Paravin Mulla
+
 Full Stack Developer | AI Enthusiast | Problem Solver
+
 👨‍💻 Professional Summary
 
 Final Year B.Tech Computer Science Engineering student at KLE Technological University with hands-on experience in building scalable full-stack applications. Passionate about developing AI-powered solutions and production-ready software systems using modern technologies.
 
 Strong foundation in Java, Spring Boot, and React
 
-Experience in designing secure RESTful APIs
+Experience designing secure RESTful APIs
 
 Exposure to Cloud Computing & System Design
 
-Interest in building scalable and performance-oriented applications
+Focused on scalable and performance-oriented applications
 
 💼 Professional Experience
 Java Developer Intern — Infosys (Spring 2024)
@@ -19,7 +21,7 @@ Developed full-stack applications using Spring Boot and React
 
 Designed and implemented secure RESTful APIs with role-based access control
 
-Worked in Agile environment with sprint planning and daily stand-ups
+Worked in an Agile environment with sprint planning and daily stand-ups
 
 Contributed to production-ready modules with testing and documentation
 
@@ -31,10 +33,10 @@ Developed and documented Spring Boot REST APIs
 
 Designed responsive and user-friendly interfaces
 
-Collaborated with cross-functional teams to ensure timely delivery
+Collaborated with cross-functional teams for timely project delivery
 
 🛠 Technical Skills
-Programming Languages
+💻 Programming Languages
 
 Java
 
@@ -42,7 +44,7 @@ Python
 
 JavaScript
 
-Frameworks & Libraries
+⚙ Frameworks & Libraries
 
 Spring Boot
 
@@ -56,7 +58,7 @@ Angular
 
 Next.js
 
-Databases
+🗄 Databases
 
 MySQL
 
@@ -64,7 +66,7 @@ MongoDB
 
 PostgreSQL
 
-Tools & Platforms
+🧰 Tools & Platforms
 
 Git & GitHub
 
@@ -77,7 +79,7 @@ IntelliJ IDEA
 Eclipse
 
 🚀 Key Projects
-AI Mock Interview Platform
+🤖 AI Mock Interview Platform
 
 Technologies: Next.js, React, Gemini AI, PostgreSQL
 
@@ -89,7 +91,7 @@ Designed performance tracking dashboard
 
 Implemented secure authentication and session management
 
-Smart E-Waste Management System
+♻ Smart E-Waste Management System
 
 Technologies: React, Spring Boot, MongoDB, JWT
 
@@ -100,7 +102,8 @@ Implemented real-time request tracking
 Designed optimized scheduling workflow
 
 Built analytics dashboard for operational insights
-📊 GitHub Statistics
+
+📊 GitHub Stats
 
 Active contributor with consistent commit history
 
@@ -108,7 +111,7 @@ Multiple full-stack and AI-based projects
 
 Strong focus on backend architecture and scalable design
 
-GitHub Profile:
+🔗 GitHub Profile:
 👉 https://github.com/ParavinMulla786
 
 🎯 Career Objective
@@ -117,8 +120,8 @@ Seeking an entry-level Software Engineer / Full Stack Developer role where I can
 
 📫 Contact Information
 
-Email: paravin.mulla@example.com
+📧 Email: paravin.mulla@example.com
 
-LinkedIn: https://www.linkedin.com/in/paravin-mulla/
+🔗 LinkedIn: https://www.linkedin.com/in/paravin-mulla/
 
-GitHub: https://github.com/ParavinMulla786
+💻 GitHub: https://github.com/ParavinMulla786
