@@ -1,129 +1,124 @@
-# 👋 Hi, I'm Paravin Mulla  
-### 🚀 Full Stack Developer | 🤖 AI Enthusiast | 🌱 Continuous Learner
+👋 Hi, I'm Paravin Mulla
+Full Stack Developer | AI Enthusiast | Problem Solver
+👨‍💻 Professional Summary
 
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=250&section=header&text=Paravin%20Mulla&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55"/>
-</p>
+Final Year B.Tech Computer Science Engineering student at KLE Technological University with hands-on experience in building scalable full-stack applications. Passionate about developing AI-powered solutions and production-ready software systems using modern technologies.
 
-<!-- Profile Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ParavinMulla786&label=Profile%20Views&color=0A66C2&style=for-the-badge"/>
-</p>
+Strong foundation in Java, Spring Boot, and React
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&lines=Building+Scalable+Web+Applications;Java+%26+Spring+Boot+Developer;AI-Powered+Project+Builder;Turning+Ideas+into+Products"/>
-</p>
+Experience in designing secure RESTful APIs
 
----
+Exposure to Cloud Computing & System Design
 
-## 👨‍💻 About Me
+Interest in building scalable and performance-oriented applications
 
-🎓 **B.Tech Computer Science Engineering (Final Year)**  
-💼 **Aspiring Software / Full Stack Developer**  
-🧠 Passionate about **AI-powered applications & modern web technologies**
+💼 Professional Experience
+Java Developer Intern — Infosys (Spring 2024)
 
-✔️ Java, Spring Boot, React, MERN Stack  
-✔️ Real-world, production-ready projects  
-✔️ Clean code, UX & scalable architecture  
-✔️ Open to internships, full-time roles & collaborations  
+Developed full-stack applications using Spring Boot and React
 
----
+Designed and implemented secure RESTful APIs with role-based access control
 
-## 💼 Professional Experience
+Worked in Agile environment with sprint planning and daily stand-ups
 
-### 🏢 Java Developer Intern — **Infosys**
-- Developed Java Full Stack applications using **Spring Boot & React**
-- Implemented **secure RESTful APIs**
-- Worked in **Agile & CI/CD environment**
-- Built scalable production-ready features
+Contributed to production-ready modules with testing and documentation
 
-### 🏢 Full Stack Developer — **Developer.dev Pvt. Ltd.**
-- Built MEAN Stack applications with **MySQL**
-- Developed **Spring Boot REST APIs**
-- Designed responsive UI with modern UX principles
+Full Stack Developer Intern — Developer.dev Pvt. Ltd. (Summer 2023)
 
----
+Built MEAN stack applications integrated with MySQL
 
-## 🛠️ Tech Stack
+Developed and documented Spring Boot REST APIs
 
-### 🚀 Languages & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,js,react,nextjs,nodejs"/>
-</p>
+Designed responsive and user-friendly interfaces
 
-### 🗄️ Databases & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,postman"/>
-</p>
+Collaborated with cross-functional teams to ensure timely delivery
 
----
+🛠 Technical Skills
+Programming Languages
 
-## 🚀 Featured Projects
+Java
 
-### 🎥 AI Mock Interview Platform
-**Tech:** Next.js • React • Gemini AI • PostgreSQL • Clerk  
-- 🎬 Real-time video interviews  
-- 🧠 AI-powered evaluation  
-- 📊 Performance dashboard  
-- 🔐 Secure authentication  
+Python
 
-### ♻️ Smart E-Waste Management System
-**Tech:** React • Java • MongoDB • JWT  
-- 🏙️ Multi-role dashboards  
-- 📱 Real-time tracking  
-- 📅 Smart scheduling  
-- 📊 Analytics & insights  
+JavaScript
 
----
+Frameworks & Libraries
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ParavinMulla786&theme=radical&no-frame=true&no-bg=true&margin-w=15"/>
-</p>
+Spring Boot
 
----
+React.js
 
-## 📊 GitHub Analytics
+Node.js
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParavinMulla786&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParavinMulla786&layout=compact&theme=radical&hide_border=true" height="180"/>
-</p>
+Express.js
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParavinMulla786&theme=radical&hide_border=true"/>
-</p>
+Angular
 
----
+Next.js
 
-## 🐍 Contribution Snake (Animated)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ParavinMulla786/ParavinMulla786/output/github-contribution-grid-snake.svg"/>
-</p>
+Databases
 
----
+MySQL
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/ParavinMulla786">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+MongoDB
 
----
+PostgreSQL
 
-<p align="center">
-  💫 <i>"I don't just write code — I build solutions that make an impact."</i>
-</p>
+Tools & Platforms
 
-<p align="center">
-  🚀 Open to collaborations & opportunities
-</p>
+Git & GitHub
+
+Postman
+
+VS Code
+
+IntelliJ IDEA
+
+Eclipse
+
+🚀 Key Projects
+AI Mock Interview Platform
+
+Technologies: Next.js, React, Gemini AI, PostgreSQL
+
+Developed an AI-powered mock interview platform
+
+Integrated AI-based response analysis and feedback generation
+
+Designed performance tracking dashboard
+
+Implemented secure authentication and session management
+
+Smart E-Waste Management System
+
+Technologies: React, Spring Boot, MongoDB, JWT
+
+Developed multi-role system for Admins, Users, and Agents
+
+Implemented real-time request tracking
+
+Designed optimized scheduling workflow
+
+Built analytics dashboard for operational insights
+📊 GitHub Statistics
+
+Active contributor with consistent commit history
+
+Multiple full-stack and AI-based projects
+
+Strong focus on backend architecture and scalable design
+
+GitHub Profile:
+👉 https://github.com/ParavinMulla786
+
+🎯 Career Objective
+
+Seeking an entry-level Software Engineer / Full Stack Developer role where I can contribute to impactful projects, enhance system performance, and continuously grow as a technology professional.
+
+📫 Contact Information
+
+Email: paravin.mulla@example.com
+
+LinkedIn: https://www.linkedin.com/in/paravin-mulla/
+
+GitHub: https://github.com/ParavinMulla786
