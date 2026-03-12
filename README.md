@@ -1,4 +1,8 @@
-### 🚀 Full Stack Developer | AI Enthusiast | Problem Solver
+<h1 align="center">Hi 👋, I'm Paravin Mulla</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=900&color=A855F7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI+Enthusiast;Java+Spring+Boot+Developer;React+%26+Next.js+Developer;Building+AI+Powered+Applications" />
+</p>
 
 [![Email](https://img.shields.io/badge/Email-paravinmulla2004%40gmail.com-red?style=flat-square\&logo=gmail)](mailto:paravinmulla2004@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/paravin-mulla-bb2abb2b7)
