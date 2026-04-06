@@ -12,16 +12,16 @@
 
 # 👨‍💻 Professional Summary
 
-Final Year **B.Tech Computer Science Engineering** student at **Nanasaheb Mahadik College of Engineering, Peth**, passionate about building scalable, production-ready applications and AI-powered solutions.
+Final Year **B.Tech in Computer Science Engineering** student at **Nanasaheb Mahadik College of Engineering, Peth**, passionate about building scalable, production-ready applications and AI-powered solutions.
 
-I enjoy solving complex problems, optimizing systems, and developing full-stack applications using modern technologies.
+I enjoy solving complex problems, optimizing systems, and building scalable applications.
 
 ### 💡 Core Expertise
 
 Java • Spring Boot • React • RESTful API Design
 
 🎯 **Career Goal:**
-To contribute to impactful software products while continuously growing as a technology professional.
+To build scalable, real-world software solutions and contribute to impactful products while continuously growing as a Full Stack Developer
 
 ---
 
@@ -103,15 +103,15 @@ To contribute to impactful software products while continuously growing as a tec
 
 # 📊 GitHub Stats
 
-![Paravin GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParavinMulla786\&show_icons=true\&theme=tokyonight)
+![Paravin GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParavinMulla786&show_icons=true&theme=tokyonight&cache_seconds=180)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParavinMulla786\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParavinMulla786&layout=compact&theme=tokyonight&cache_seconds=180)
 
 ---
 
 # 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ParavinMulla786\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=ParavinMulla786&theme=tokyonight&cache_seconds=180)
 
 ---
 
@@ -131,10 +131,12 @@ To contribute to impactful software products while continuously growing as a tec
 
 ---
 
-# 🔗 Let's Connect
 
-📧 **Email:** [paravinmulla2004@gmail.com](mailto:paravinmulla2004@gmail.com)
-🔗 **LinkedIn:** https://www.linkedin.com/in/paravin-mulla-bb2abb2b7
-💻 **GitHub:** https://github.com/ParavinMulla786
+
+# 🚀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=ParavinMulla786&label=Profile%20views&color=0e75b6&style=flat)
+
+---
 
 ⭐ Always open to collaborating on interesting projects and innovative ideas!
