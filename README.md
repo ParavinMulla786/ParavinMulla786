@@ -1,20 +1,18 @@
 <h1 align="center">Hi 👋, I'm Paravin Mulla</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=900&color=A855F7&center=true&vCenter=true&width=750&lines=MERN+Full+Stack+Developer;React.js+Developer;Node.js+Developer;Core+Java+Developer;Building+Real-World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=800&lines=MERN+Full+Stack+Developer;React.js+Developer;Node.js+%26+Express.js+Developer;Core+Java+Developer;Building+Real-World+Applications" />
 </p>
 
 <p align="center">
   <a href="mailto:paravinmulla2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-paravinmulla2004%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-paravinmulla2004%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://www.linkedin.com/in/paravin-mulla-bb2abb2b7">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Paravin%20Mulla-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="https://github.com/ParavinMulla786">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-ParavinMulla786-black?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -22,25 +20,25 @@
 
 # 👨‍💻 About Me
 
-🎓 B.Tech Computer Science & Engineering graduate from
+🎓 **B.Tech Computer Science & Engineering** graduate from
 **Nanasaheb Mahadik College of Engineering, Peth**
 
-💻 **Full-Stack MERN Developer** with hands-on experience building responsive and scalable web applications.
+💻 **Full Stack MERN Developer** with hands-on experience building responsive and scalable web applications using modern web technologies.
 
-🚀 Currently focused on:
+🚀 I enjoy developing complete applications from **frontend UI to backend APIs and database integration**.
 
-* MERN Full Stack Development
-* React.js & Redux Toolkit
-* Node.js & Express.js
-* RESTful API Development
-* MongoDB & MySQL
-* JWT Authentication & Role-Based Authorization
-* Core Java
-* Git, GitHub & Postman
+### 🔥 Currently Working With
 
-💡 I enjoy solving problems, building real-world applications, and continuously improving my development skills.
+* ⚛️ React.js & Redux Toolkit
+* 🟢 Node.js & Express.js
+* 🍃 MongoDB & MySQL
+* 🔐 JWT Authentication & Role-Based Authorization
+* 🌐 RESTful API Development
+* 🏗️ MVC Architecture
+* ☕ Core Java
+* 🛠️ Git, GitHub & Postman
 
-🎯 **Career Goal:** To work as a Full-Stack / Software Developer and contribute to high-quality real-world software products.
+🎯 **Career Goal:** To start my career as a Full Stack / Software Developer and contribute to building reliable, scalable, and user-focused software applications.
 
 ---
 
@@ -83,11 +81,11 @@
 
 <p>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MVC_Architecture-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Bcrypt-003A70?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MVC_Architecture-FF6F00?style=for-the-badge"/>
 </p>
 
-### 🔧 Tools
+### 🔧 Development Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
@@ -109,43 +107,89 @@
 * Implemented **JWT authentication** for secure user access.
 * Followed **MVC architecture** for backend development.
 * Used **Git and GitHub** for version control.
-* Worked with software development best practices.
+* Practiced software development and API testing workflows.
 
 ---
 
 # 🚀 Featured Projects
 
-## 📋 Project Management System
-
-**React.js • Node.js • Express.js • MongoDB • JWT**
-
-**Jun 2026 – Jul 2026**
-
-* Developed a full-stack Project Management System for creating projects, assigning tasks, and tracking project progress.
-* Designed RESTful APIs using **Node.js and Express.js** following MVC architecture.
-* Implemented secure **JWT authentication** and **Bcrypt password encryption**.
-* Implemented complete **CRUD operations** with MongoDB.
-* Built responsive user interfaces using **React.js**.
-* Used **Git, GitHub, and Postman** for version control and API testing.
-
----
-
 ## 🛒 Multi-Vendor E-Commerce Platform
 
 **React.js • Node.js • Express.js • MongoDB • JWT**
 
-**Jun 2026 – Jul 2026**
+A full-stack e-commerce platform designed around multiple user roles.
 
-* Developed a full-stack MERN e-commerce platform with **Admin, Vendor, and Customer** roles.
-* Implemented **JWT authentication** and role-based authorization.
-* Designed RESTful APIs using Node.js and Express.js.
-* Implemented product management, search, filtering, shopping cart, and order processing.
-* Added image upload functionality for product management.
-* Integrated email notifications.
-* Built responsive React.js interfaces.
-* Followed **MVC architecture** for backend development.
+### ✨ Features
+
+* 👑 Admin, Vendor & Customer roles
+* 🔐 JWT authentication
+* 🛡️ Role-based authorization
+* 📦 Product management
+* 🔎 Product search & filtering
+* 🛒 Shopping cart
+* 📋 Order processing
+* 🖼️ Product image uploads
+* 📧 Email notifications
+* 🌐 RESTful APIs
+* 📱 Responsive React interface
+
+### 🏗️ Architecture
+
+**Frontend:** React.js
+**Backend:** Node.js + Express.js
+**Database:** MongoDB
+**Authentication:** JWT
+**Architecture:** MVC
 
 ---
+
+## 📋 Project Management System
+
+**React.js • Node.js • Express.js • MongoDB • JWT**
+
+A full-stack project and task management application for organizing projects, assigning tasks, and tracking progress.
+
+### ✨ Features
+
+* 🔐 User authentication
+* 🛡️ JWT-based authorization
+* 📁 Project management
+* 📋 Task creation & assignment
+* 🔄 Task status management
+* 📊 Project progress tracking
+* ✏️ CRUD operations
+* 🔒 Bcrypt password encryption
+* 🌐 RESTful APIs
+* 📱 Responsive React UI
+
+### 🏗️ Architecture
+
+**Frontend:** React.js
+**Backend:** Node.js + Express.js
+**Database:** MongoDB
+**Authentication:** JWT
+**Architecture:** MVC
+
+---
+
+## ♻️ Smart E-Waste Management System
+
+**React.js • Spring Boot • MongoDB • JWT**
+
+A web application designed to manage e-waste collection and disposal through a structured digital platform.
+
+### ✨ Features
+
+* 👤 User management
+* 🔐 Secure authentication
+* ♻️ E-waste collection management
+* 📦 Pickup request management
+* 📊 Management dashboard
+* 🔑 JWT-based security
+* 🌐 REST API integration
+
+---
+
 
 # 📊 GitHub Stats
 
@@ -177,29 +221,33 @@
 
 # 💪 Core Strengths
 
-* MERN Full Stack Development
-* React.js Development
-* Node.js & Express.js
-* RESTful API Development
-* JWT Authentication
-* Role-Based Authorization
-* MongoDB
-* MVC Architecture
-* Responsive UI Development
-* Git & GitHub
-* Problem Solving
-* Core Java Fundamentals
+* 🚀 MERN Full Stack Development
+* ⚛️ React.js Development
+* 🟢 Node.js & Express.js
+* 🌐 RESTful API Development
+* 🔐 JWT Authentication
+* 🛡️ Role-Based Authorization
+* 🍃 MongoDB
+* 🗄️ MySQL
+* 🏗️ MVC Architecture
+* 📱 Responsive UI Development
+* 🔧 Git & GitHub
+* 🧪 API Testing with Postman
+* ☕ Core Java
+* 🧠 Problem Solving
 
 ---
 
 # 🎯 Current Goals
 
 * 🚀 Build production-quality full-stack applications
-* 📚 Strengthen Java and backend development skills
-* ⚛️ Improve React.js and Redux Toolkit expertise
+* ⚛️ Improve React.js & Redux Toolkit skills
+* 🟢 Strengthen Node.js & backend development
+* ☕ Strengthen Core Java & DSA
 * 🧠 Practice Data Structures & Algorithms
-* 🔐 Learn advanced authentication and authorization
+* 🔐 Learn advanced authentication & authorization
 * ☁️ Improve deployment and cloud development skills
+* 📖 Continue learning and contributing to open-source projects
 
 ---
 
@@ -221,7 +269,9 @@
 
 </p>
 
-⭐ **Open to Full-Stack Developer, Software Developer, React Developer, and MERN Developer opportunities.**
+<p align="center">
+  ⭐ <b>Open to Full Stack Developer, MERN Developer, React Developer, and Software Developer opportunities.</b>
+</p>
 
 ---
 
