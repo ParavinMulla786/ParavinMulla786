@@ -261,9 +261,6 @@ A web application designed to manage e-waste collection and disposal through a s
   <img src="https://img.shields.io/badge/LinkedIn-Paravin%20Mulla-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/ParavinMulla786">
-  <img src="https://img.shields.io/badge/GitHub-ParavinMulla786-black?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 </p>
 
